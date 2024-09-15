@@ -48,6 +48,10 @@
 - Kali Linux
 - macOS
 
+## VIDEO TUTORIAL FOR KALI LINUX USERS----
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qDqeSkAV4aw/0.jpg)](https://www.youtube.com/watch?v=qDqeSkAV4aw)
+
 ## Test On:
 - Termux
 - Mi Note 9 pro
@@ -62,7 +66,7 @@
 * `git clone https://github.com/AlexBieber/RevengeBomber2.0`
 * `ls`
 * `cd RevengeBomber2.0`
-* `pip2 install requirements.txt`
+* `pip2 install -r requirements.txt`
 * `chmod +x RevengeBomber2.0.sh`
 * `./RevengeBomber.sh Or bash RevengeBomber2.0.sh`
 
